@@ -1,0 +1,25 @@
+# Ignorar Ambientes Virtuais (Venvs)
+venv/
+.venv/
+env/
+
+# Ignorar Cache e Compilações Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar IDEs (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Ignorar Modelos Treinados e Dados (Arquivos grandes/binários)
+modelos/*.pkl
+modelos/*.joblib
+datasets/
+data/
+
+# Ignorar Arquivos Sensíveis
+.env
+
+# Ignorar arquivos do macOS
+.DS_Store
