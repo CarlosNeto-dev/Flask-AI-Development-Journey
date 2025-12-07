@@ -21,7 +21,7 @@ Este projeto é uma adaptação e expansão dos conceitos apresentados no curso 
 
 ---
 
-## 🇬🇧 English
+## 🇺🇸 English
 
 # 🚀 Flask and AI Development Journey 🧠
 
