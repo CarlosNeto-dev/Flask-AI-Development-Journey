@@ -2,13 +2,13 @@
 
 # 🤖 Aplicação de Serviço de IA
 
-Esta pasta contém a aplicação Flask que expõe os modelos de IA como um serviço.
+Esta pasta contém o código-fonte da aplicação Flask que atua como um serviço de IA. Ela é responsável por carregar os modelos da pasta `/models` e expô-los através de uma API.
 
 ## 🎯 Objetivo:
 
-*   **API RESTful:** Criar uma API para que outras aplicações possam consumir os modelos de IA.
-*   **Integração:** Integrar os modelos de IA com a aplicação Flask.
-*   **Testes:** Implementar testes para garantir o funcionamento da API.
+-   **API RESTful**: Desenvolver uma API robusta e bem documentada para que outras aplicações (ou o próprio front-end) possam consumir as funcionalidades de IA.
+-   **Integração de Modelos**: Implementar a lógica para carregar os modelos de IA e usá-los para processar as requisições recebidas pela API.
+-   **Testes de Integração**: Criar testes que garantam que a API está funcionando corretamente e que a integração com os modelos está estável.
 
 ---
 
@@ -16,10 +16,10 @@ Esta pasta contém a aplicação Flask que expõe os modelos de IA como um servi
 
 # 🤖 AI Service Application
 
-This folder contains the Flask application that exposes the AI models as a service.
+This folder contains the source code for the Flask application that acts as an AI service. It is responsible for loading the models from the `/models` folder and exposing them through an API.
 
 ## 🎯 Objective:
 
-*   **RESTful API:** Create an API so that other applications can consume the AI models.
-*   **Integration:** Integrate the AI models with the Flask application.
-*   **Testing:** Implement tests to ensure the API is working correctly.
+-   **RESTful API**: Develop a robust and well-documented API so that other applications (or the front-end itself) can consume the AI functionalities.
+-   **Model Integration**: Implement the logic to load the AI models and use them to process the requests received by the API.
+-   **Integration Testing**: Create tests that ensure the API is working correctly and that the integration with the models is stable.

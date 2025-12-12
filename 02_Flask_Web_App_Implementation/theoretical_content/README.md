@@ -1,27 +1,27 @@
 ## 🇧🇷 Português
 
-# 📖 Conteúdo Teórico
+# 📖 Conteúdo Teórico: Dominando o Flask
 
-Aqui você encontrará todo o material de estudo teórico sobre o desenvolvimento de aplicações web com Flask.
+Esta pasta contém todo o material de estudo teórico para o Módulo 2. Os notebooks e arquivos aqui detalham os conceitos essenciais para o desenvolvimento de aplicações web com Flask.
 
-## 🎯 Tópicos:
+## 🎯 Tópicos Abordados:
 
-*   **Introdução ao Flask:** O que é e por que usar o Flask.
-*   **Renderização de Templates:** Uso do Jinja2 para criar páginas dinâmicas.
-*   **Formulários Web:** Validação e processamento de dados de formulários.
-*   **Interação com Banco de Dados:** Uso de ORMs como o SQLAlchemy.
+-   **Introdução ao Flask**: Entenda o que é o Flask, suas vantagens como micro-framework e como iniciar um projeto.
+-   **Renderização de Templates**: Aprenda a usar o motor de templates Jinja2 para criar páginas HTML dinâmicas e reutilizáveis.
+-   **Formulários Web com Flask-WTF**: Domine a criação, validação e processamento seguro de formulários web.
+-   **Interação com Banco de Dados**: Explore como conectar sua aplicação a um banco de dados usando ORMs como o SQLAlchemy para gerenciar dados de forma eficiente.
 
 ---
 
 ## 🇺🇸 English
 
-# 📖 Theoretical Content
+# 📖 Theoretical Content: Mastering Flask
 
-Here you will find all the theoretical study material on developing web applications with Flask.
+This folder contains all the theoretical study material for Module 2. The notebooks and files here detail the essential concepts for developing web applications with Flask.
 
-## 🎯 Topics:
+## 🎯 Topics Covered:
 
-*   **Introduction to Flask:** What it is and why use Flask.
-*   **Template Rendering:** Using Jinja2 to create dynamic pages.
-*   **Web Forms:** Validation and processing of form data.
-*   **Database Interaction:** Using ORMs like SQLAlchemy.
+-   **Introduction to Flask**: Understand what Flask is, its advantages as a micro-framework, and how to start a project.
+-   **Template Rendering**: Learn to use the Jinja2 template engine to create dynamic and reusable HTML pages.
+-   **Web Forms with Flask-WTF**: Master the creation, validation, and secure processing of web forms.
+-   **Database Interaction**: Explore how to connect your application to a database using ORMs like SQLAlchemy to manage data efficiently.

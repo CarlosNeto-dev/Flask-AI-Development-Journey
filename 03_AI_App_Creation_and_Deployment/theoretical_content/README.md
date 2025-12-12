@@ -1,27 +1,27 @@
 ## 🇧🇷 Português
 
-# 📖 Conteúdo Teórico
+# 📖 Conteúdo Teórico: IA e Deploy
 
-Aqui você encontrará todo o material de estudo teórico sobre a criação e deploy de aplicações com IA.
+Esta pasta contém todo o material de estudo teórico para o Módulo 3. Os notebooks e arquivos aqui abordam os conceitos avançados para integrar IA em sua aplicação e publicá-la na nuvem.
 
-## 🎯 Tópicos:
+## 🎯 Tópicos Abordados:
 
-*   **Integração de Modelos de IA:** Como carregar e usar modelos em uma aplicação Flask.
-*   **Desenvolvimento de APIs:** Melhores práticas para a criação de APIs RESTful.
-*   **Deploy em Nuvem:** Estratégias e tutoriais para publicar sua aplicação.
-*   **CI/CD:** Conceitos e ferramentas para automação do ciclo de desenvolvimento.
+-   **Integração de Modelos de IA**: Guias detalhados sobre como carregar e interagir com diferentes tipos de modelos de IA a partir de uma aplicação Flask.
+-   **Desenvolvimento de APIs RESTful**: Melhores práticas para projetar, construir e proteger APIs eficientes e escaláveis.
+-   **Deploy em Nuvem**: Tutoriais e estratégias para fazer o deploy de sua aplicação em plataformas de nuvem populares, como Heroku, Vercel ou AWS.
+-   **CI/CD (Integração e Entrega Contínua)**: Conceitos e guias práticos para configurar um pipeline automatizado que testa e publica sua aplicação continuamente.
 
 ---
 
 ## 🇺🇸 English
 
-# 📖 Theoretical Content
+# 📖 Theoretical Content: AI and Deployment
 
-Here you will find all the theoretical study material on creating and deploying AI applications.
+This folder contains all the theoretical study material for Module 3. The notebooks and files here cover the advanced concepts for integrating AI into your application and publishing it to the cloud.
 
-## 🎯 Topics:
+## 🎯 Topics Covered:
 
-*   **AI Model Integration:** How to load and use models in a Flask application.
-*   **API Development:** Best practices for creating RESTful APIs.
-*   **Cloud Deployment:** Strategies and tutorials for publishing your application.
-*   **CI/CD:** Concepts and tools for automating the development cycle.
+-   **AI Model Integration**: Detailed guides on how to load and interact with different types of AI models from a Flask application.
+-   **RESTful API Development**: Best practices for designing, building, and securing efficient and scalable APIs.
+-   **Cloud Deployment**: Tutorials and strategies for deploying your application on popular cloud platforms like Heroku, Vercel, or AWS.
+-   **CI/CD (Continuous Integration and Delivery)**: Concepts and practical guides for setting up an automated pipeline that continuously tests and publishes your application.

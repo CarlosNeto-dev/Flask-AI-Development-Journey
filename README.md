@@ -2,22 +2,21 @@
 
 # 🚀 Jornada de Desenvolvimento com Flask e IA 🧠
 
-Este repositório documenta a jornada de aprendizado e desenvolvimento de um projeto web utilizando Flask, com integração de Inteligência Artificial. O conteúdo e a estrutura deste curso são fortemente inspirados no curso "AI-Powered Flask Development" oferecido pelo Coursera.
+Bem-vindo à Jornada de Desenvolvimento com Flask e IA! Este repositório é um guia completo e prático, documentando o aprendizado e a construção de uma aplicação web moderna com Python, Flask e Inteligência Artificial.
 
-## 🎓 Sobre o Curso
+O conteúdo e a estrutura deste projeto são fortemente inspirados nos cursos da plataforma **Coursera**, adaptando conceitos profissionais para um formato de aprendizado passo a passo.
 
-O objetivo deste curso é explorar as capacidades do Flask, um micro-framework web para Python 🐍, e como ele pode ser combinado com tecnologias de Inteligência Artificial para criar aplicações web inteligentes e poderosas.
+## 🎯 Objetivo do Projeto
 
-### 📚 Tópicos Abordados:
+O objetivo principal é criar uma aplicação web robusta, explorando desde os fundamentos do Python e do desenvolvimento web com Flask até a integração de serviços de IA e o deploy em um ambiente de produção. Cada pasta numerada representa um módulo de aprendizado:
 
-*   **🔧 Fundamentos do Flask:** Roteamento, templates, formulários e gerenciamento de banco de dados 💾.
-*   **🤖 Integração com IA:** Utilização de APIs de modelos de linguagem (como os da OpenAI) para gerar conteúdo, responder a perguntas e mais.
-*   **⚙️ Desenvolvimento de APIs RESTful:** Criação de endpoints para que outras aplicações possam consumir os serviços de IA.
-*   **✅ Boas Práticas:** Estrutura de projetos, gerenciamento de dependências e deploy 🚀.
+-   **[01_Python_Coding_And_Packaging](01_Python_Coding_And_Packaging):** Foco nos fundamentos essenciais do Python, incluindo modularização, pacotes e testes automatizados com `unittest`.
+-   **[02_Flask_Web_App_Implementation](02_Flask_Web_App_Implementation):** Construção da base da nossa aplicação web com Flask, cobrindo rotas, templates e formulários.
+-   **[03_AI_App_Creation_and_Deployment](03_AI_App_Creation_and_Deployment):** A fase final, onde integramos a Inteligência Artificial à nossa aplicação e a preparamos para o deploy.
 
 ## ✨ Inspiração
 
-Este projeto é uma adaptação e expansão dos conceitos apresentados no curso do Coursera 🎓, servindo como um exercício prático e um portfólio de desenvolvimento. Agradecimentos à equipe do Coursera pelo excelente material educacional. 🙏
+Este projeto é uma adaptação e expansão dos conceitos apresentados em cursos de desenvolvimento de software e IA do Coursera, servindo como um exercício prático e um portfólio de desenvolvimento. Agradecimentos à equipe do Coursera pelo excelente material educacional. 🙏
 
 ---
 
@@ -25,19 +24,18 @@ Este projeto é uma adaptação e expansão dos conceitos apresentados no curso 
 
 # 🚀 Flask and AI Development Journey 🧠
 
-This repository documents the learning and development journey of a web project using Flask with Artificial Intelligence integration. The content and structure of this course are heavily inspired by the "AI-Powered Flask Development" course offered by Coursera.
+Welcome to the Flask and AI Development Journey! This repository is a complete and practical guide, documenting the learning and construction of a modern web application with Python, Flask, and Artificial Intelligence.
 
-## 🎓 About the Course
+The content and structure of this project are heavily inspired by courses on the **Coursera** platform, adapting professional concepts into a step-by-step learning format.
 
-The goal of this course is to explore the capabilities of Flask, a Python 🐍 web micro-framework, and how it can be combined with Artificial Intelligence technologies to create intelligent and powerful web applications.
+## 🎯 Project Goal
 
-### 📚 Topics Covered:
+The main objective is to create a robust web application, exploring everything from the fundamentals of Python and web development with Flask to the integration of AI services and deployment in a production environment. Each numbered folder represents a learning module:
 
-*   **🔧 Flask Fundamentals:** Routing, templates, forms, and database management 💾.
-*   **🤖 AI Integration:** Using language model APIs (like OpenAI's) to generate content, answer questions, and more.
-*   **⚙️ RESTful API Development:** Creating endpoints for other applications to consume AI services.
-*   **✅ Best Practices:** Project structure, dependency management, and deployment 🚀.
+-   **[01_Python_Coding_And_Packaging](01_Python_Coding_And_Packaging):** Focus on the essential fundamentals of Python, including modularization, packages, and automated testing with `unittest`.
+-   **[02_Flask_Web_App_Implementation](02_Flask_Web_App_Implementation):** Building the foundation of our web application with Flask, covering routes, templates, and forms.
+-   **[03_AI_App_Creation_and_Deployment](03_AI_App_Creation_and_Deployment):** The final phase, where we integrate Artificial Intelligence into our application and prepare it for deployment.
 
 ## ✨ Inspiration
 
-This project is an adaptation and expansion of the concepts presented in the Coursera course 🎓, serving as a practical exercise and a development portfolio. Thanks to the Coursera team for the excellent educational material. 🙏
+This project is an adaptation and expansion of the concepts presented in software development and AI courses on Coursera, serving as a practical exercise and a development portfolio. Thanks to the Coursera team for the excellent educational material. 🙏
