@@ -1,5 +1,11 @@
 ## 🇧🇷 Português
 
+> **⚠️ Atenção: Ambiente de Desenvolvimento ⚠️**
+>
+> Este repositório (ou esta branch) é um **ambiente de estudo e experimentação**. O conteúdo está em constante desenvolvimento e pode conter anotações, testes e códigos em processo de refatoração.
+>
+> A versão final e consolidada do projeto será disponibilizada na branch `main`.
+
 # 🚀 Jornada de Desenvolvimento com Flask e IA 🧠
 
 Bem-vindo à Jornada de Desenvolvimento com Flask e IA! Este repositório é um guia completo e prático, documentando o aprendizado e a construção de uma aplicação web moderna com Python, Flask e Inteligência Artificial.
@@ -21,6 +27,12 @@ Este projeto é uma adaptação e expansão dos conceitos apresentados em cursos
 ---
 
 ## 🇺🇸 English
+
+> **⚠️ Warning: Development Environment ⚠️**
+>
+> This repository (or this branch) is a **study and experimentation environment**. The content is under constant development and may contain notes, tests, and code in the process of being refactored.
+>
+> The final and consolidated version of the project will be available on the `main` branch.
 
 # 🚀 Flask and AI Development Journey 🧠
 
